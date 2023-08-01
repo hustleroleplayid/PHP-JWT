@@ -1,0 +1,11 @@
+{
+    "name": "robipss/php-jwt",
+    "description": "Belajar Session Management PHP dengan JWT",
+    "authors": [{
+        "name": "robipss",
+        "email": "fbhantu781@gmail.com"
+    }],
+    "require": {
+        "firebase/php-jwt": "^6.8"
+    }
+}
